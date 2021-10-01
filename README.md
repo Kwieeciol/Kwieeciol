@@ -2,6 +2,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwieeciol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kwieeciol)](https://github.com/anuraghazra/github-readme-stats)
